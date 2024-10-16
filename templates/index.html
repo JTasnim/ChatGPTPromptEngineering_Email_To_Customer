@@ -22,7 +22,7 @@
           <option value="Spanish">Spanish</option>
         </select>
         <input type="submit" value="Generate" class="submit-button" />
-        <div class="translate-options">
+        <!-- <div class="translate-options">
           <label for="translate-comment">Translate Comment:</label>
           <input
             type="checkbox"
@@ -37,21 +37,21 @@
             id="translate-email"
             class="translate-checkbox"
           />
-        </div>
+        </div> -->
       </form>
       <div class="result-container">
-        {% if comment %}
+        <!-- {% if comment %} -->
         <div class="result">
+          <h2>Customer Comment:</h2>
           <div class="left">
-            <h2>Comment:</h2>
             <p>{{ comment }}</p>
           </div>
+          <h2>Generated Email:</h2>
           <div class="right">
-            <h2>Email:</h2>
             <div class="email-content">{{ email | safe }}</div>
           </div>
         </div>
-        {% endif %}
+        <!-- {% endif %} -->
       </div>
     </div>
   </body>

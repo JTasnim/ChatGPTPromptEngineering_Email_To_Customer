@@ -61,8 +61,6 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
 ![My Project Screenshot](assets/Screenshot2.png)
 
-![My Project Screenshot](assets/Screenshot3.png)
-
 # To learn more
 
 [Google Slide](./assets/CustomerSupportSystem_AnEmailToTheCustomer.pptx)

@@ -23,15 +23,14 @@ form {
 }
 
 .result-container {
-  margin-top: 20px;
   display: flex;
   flex-direction: column;
 }
 
 .result {
-  display: flex;
+  /* display: flex; */
   background-color: #000000;
-  border: 1px solid #003b7c;
+  /* border: 1px solid #003b7c; */
   margin-bottom: 20px;
 }
 

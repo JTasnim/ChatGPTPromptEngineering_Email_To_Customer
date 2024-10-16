@@ -1,4 +1,4 @@
-#!/Users/jubaidatasnim/GenAi/ChatGPTPromptEngineering_Email_To_Customer/myenv/bin/python3.12
+#!/Users/jubaidatasnim/GenAi/ChatGPTPromptEngineering_Email_To_Customer/myenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -463,7 +463,7 @@ def index():
 
         if translate_email:
             email = get_translation(email, language)
-
+    
     return render_template('index.html', comment=comment, email=email, language=language)
 
 if __name__ == '__main__':
