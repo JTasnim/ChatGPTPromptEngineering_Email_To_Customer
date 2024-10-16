@@ -34,7 +34,7 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
     The email generated in Step 5 is sent to the customer programmatically using Google APIs or Python code for testing purposes.
 
-### Preparing the project:
+### Preparing the project
 
     Create the project folder
     Prepare the Python environment
@@ -55,7 +55,7 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
     Checking the sentiment analysis results against known feedback types.
     Confirming email delivery through Google API integration.
 
-### Screenshot of execution results:
+### Screenshot of execution results
 
 ![My Project Screenshot](assets/Screenshot1.png)
 
@@ -63,6 +63,6 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
 ![My Project Screenshot](assets/Screenshot3.png)
 
-### To learn more:
+### To learn more
 
 [Google Slide](./assets/CustomerSupportSystem_AnEmailToTheCustomer.pptx)
