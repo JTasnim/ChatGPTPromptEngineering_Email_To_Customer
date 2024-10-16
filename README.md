@@ -1,8 +1,8 @@
-### Customer Support System: An email to the customer
+# Customer Support System: An email to the customer
 
 The "Customer Support System: An Email to the Customer" project focuses on automating customer communication in an electronics store using ChatGPT. The objective is to generate customer comments, analyze sentiments, create subject lines for emails, and respond to the customers efficiently by leveraging AI.
 
-### Process for the project implementation
+# Process for the project implementation
 
 ## Step 1: Generate a Customer's Comment
 
@@ -34,7 +34,7 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
     The email generated in Step 5 is sent to the customer programmatically using Google APIs or Python code for testing purposes.
 
-### Preparing the project
+# Preparing the project
 
     Create the project folder
     Prepare the Python environment
@@ -44,18 +44,18 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
     Load the OpenAI API key
     Use ChatGPT to fine tune
 
-### Running the Application
+# Running the Application
 
     python app.py
 
-### How It Works
+# How It Works
 
     Generating comments for multiple products.
     Verifying email subject accuracy based on the comments.
     Checking the sentiment analysis results against known feedback types.
     Confirming email delivery through Google API integration.
 
-### Screenshot of execution results
+# Screenshot of execution results
 
 ![My Project Screenshot](assets/Screenshot1.png)
 
@@ -63,6 +63,6 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
 ![My Project Screenshot](assets/Screenshot3.png)
 
-### To learn more
+# To learn more
 
 [Google Slide](./assets/CustomerSupportSystem_AnEmailToTheCustomer.pptx)
