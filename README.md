@@ -57,11 +57,11 @@ The "Customer Support System: An Email to the Customer" project focuses on autom
 
 ### Screenshot of execution results:
 
-![My Project Screenshot](assets/screenshot1.png)
+![My Project Screenshot](assets/Screenshot1.png)
 
-![My Project Screenshot](assets/screenshot2.png)
+![My Project Screenshot](assets/Screenshot2.png)
 
-![My Project Screenshot](assets/screenshot3.png)
+![My Project Screenshot](assets/Screenshot3.png)
 
 ### To learn more:
 
